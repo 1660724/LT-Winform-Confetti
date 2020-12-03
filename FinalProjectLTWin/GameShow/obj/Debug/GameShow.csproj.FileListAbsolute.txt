@@ -1,0 +1,138 @@
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\GameShow.exe.config
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\GameShow.exe
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\obj\Debug\GameShow.Form1.resources
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\obj\Debug\GameShow.Properties.Resources.resources
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\obj\Debug\GameShow.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\obj\Debug\GameShow.exe.licenses
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\obj\Debug\GameShow.exe
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\obj\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\obj\Debug\GameShow.GameShow.resources
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\obj\Debug\GameShow.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShow\obj\Debug\GameShow.Result.resources
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\bin\Debug\GameShow.exe.config
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.exe
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\bin\Debug\GameShow.exe
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\bin\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.Form1.resources
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.GameShow.resources
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.Properties.Resources.resources
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.Result.resources
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.exe.licenses
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShow\obj\Debug\GameShow.LoseForm.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\GameShow.exe.config
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\GameShow.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.Form1.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.GameShow.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.LoseForm.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.Properties.Resources.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.Result.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.exe.licenses
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\obj\Debug\GameShow.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShow\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\GameShow.exe.config
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\GameShow.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\DarrenLee.LiveStream.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\NAudio.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\NSpeex.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.Form1.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.GameShow.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.LoseForm.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.Properties.Resources.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.Result.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\obj\Debug\GameShow.exe.licenses
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShow\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\GameShow.exe.config
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.exe
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\GameShow.exe
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.Form1.resources
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.GameShow.resources
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.LoseForm.resources
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.Properties.Resources.resources
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.Result.resources
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShow\obj\Debug\GameShow.exe.licenses
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\GameShow.exe.config
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.exe
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\GameShow.exe
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\GameShow.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.Form1.resources
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.GameShow.resources
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.LoseForm.resources
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.Properties.Resources.resources
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.Result.resources
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.exe.licenses
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShow\obj\Debug\GameShow.csprojResolveAssemblyReference.cache

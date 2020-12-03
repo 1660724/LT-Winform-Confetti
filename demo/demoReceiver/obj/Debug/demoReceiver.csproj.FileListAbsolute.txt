@@ -1,0 +1,27 @@
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\bin\Debug\demoReceiver.exe.config
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\obj\Debug\demoReceiver.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\bin\Debug\demoReceiver.exe
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\bin\Debug\demoReceiver.pdb
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\obj\Debug\demoReceiver.Form1.resources
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\obj\Debug\demoReceiver.Properties.Resources.resources
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\obj\Debug\demoReceiver.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\obj\Debug\demoReceiver.exe
+C:\Users\godfather\Desktop\socket for video\demo\demoReceiver\obj\Debug\demoReceiver.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\bin\Debug\demoReceiver.exe.config
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\obj\Debug\demoReceiver.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\obj\Debug\demoReceiver.exe
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\obj\Debug\demoReceiver.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\bin\Debug\demoReceiver.exe
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\bin\Debug\demoReceiver.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\obj\Debug\demoReceiver.Form1.resources
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\obj\Debug\demoReceiver.Properties.Resources.resources
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\obj\Debug\demoReceiver.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoReceiver\obj\Debug\demoReceiver.csprojResolveAssemblyReference.cache

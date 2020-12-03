@@ -1,0 +1,35 @@
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\Server\bin\Debug\Server.exe.config
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\Server\bin\Debug\Server.exe
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\Server\bin\Debug\Server.pdb
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\Server\obj\Debug\Server.exe
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\Server\obj\Debug\Server.pdb
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\Server\bin\Debug\Server.exe.config
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\Server\obj\Debug\Server.exe
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\Server\obj\Debug\Server.pdb
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\Server\bin\Debug\Server.exe
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\Server\bin\Debug\Server.pdb
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\Server\bin\Debug\Server.exe.config
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\Server\obj\Debug\Server.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\Server\obj\Debug\Server.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\Server\bin\Debug\Server.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\Server\bin\Debug\Server.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\Server\bin\Debug\Server.exe.config
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\Server\bin\Debug\Server.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\Server\bin\Debug\Server.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\Server\obj\Debug\Server.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\Server\obj\Debug\Server.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\Server\bin\Debug\Server.exe.config
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\Server\obj\Debug\Server.exe
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\Server\obj\Debug\Server.pdb
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\Server\bin\Debug\Server.exe
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\Server\bin\Debug\Server.pdb
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\Server\bin\Debug\Server.exe.config
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\Server\obj\Debug\Server.exe
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\Server\obj\Debug\Server.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\Server\bin\Debug\Server.exe
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\Server\bin\Debug\Server.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

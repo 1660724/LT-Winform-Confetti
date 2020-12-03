@@ -1,0 +1,10 @@
+C:\Users\godfather\Desktop\socket for video\demo\demoServer\bin\Debug\demoServer.exe.config
+C:\Users\godfather\Desktop\socket for video\demo\demoServer\bin\Debug\demoServer.exe
+C:\Users\godfather\Desktop\socket for video\demo\demoServer\bin\Debug\demoServer.pdb
+C:\Users\godfather\Desktop\socket for video\demo\demoServer\obj\Debug\demoServer.exe
+C:\Users\godfather\Desktop\socket for video\demo\demoServer\obj\Debug\demoServer.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoServer\bin\Debug\demoServer.exe.config
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoServer\bin\Debug\demoServer.exe
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoServer\bin\Debug\demoServer.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoServer\obj\Debug\demoServer.exe
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoServer\obj\Debug\demoServer.pdb

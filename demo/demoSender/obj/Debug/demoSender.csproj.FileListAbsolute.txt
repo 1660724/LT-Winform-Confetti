@@ -1,0 +1,35 @@
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\bin\Debug\demoSender.exe.config
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\bin\Debug\demoSender.exe
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\bin\Debug\demoSender.pdb
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\bin\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\bin\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\demoSender.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\demoSender.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\demoSender.Form1.resources
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\demoSender.Properties.Resources.resources
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\demoSender.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\demoSender.exe
+C:\Users\godfather\Desktop\socket for video\demo\demoSender\obj\Debug\demoSender.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\bin\Debug\demoSender.exe.config
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\bin\Debug\demoSender.exe
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\bin\Debug\demoSender.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\bin\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\bin\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\demoSender.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\demoSender.Form1.resources
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\demoSender.Properties.Resources.resources
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\demoSender.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\demoSender.exe
+C:\Users\godfather\Desktop\FinalProjectLT\demo\demoSender\obj\Debug\demoSender.pdb

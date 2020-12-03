@@ -1,0 +1,145 @@
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.exe.config
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.Properties.Resources.resources
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.exe.licenses
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.ConfettiMC.resources
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\godfather\Desktop\audiostream\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.exe.config
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\audiostream\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.exe.config
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.ConfettiMC.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.Properties.Resources.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.exe.licenses
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\bin\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.exe.config
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.ConfettiMC.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.Properties.Resources.resources
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.exe.licenses
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\DarrenLee.LiveStream.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\NAudio.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\bin\Debug\NSpeex.dll
+C:\Users\godfather\Desktop\audiostream\temp\temp\save lai\DemoUntouch\GameShowMC\obj\Debug\GameShowMC.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\GameShowMC.exe.config
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\bin\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.csprojResolveAssemblyReference.cache
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.ConfettiMC.resources
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.Properties.Resources.resources
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\socket for video\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.exe.licenses
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\GameShowMC.exe.config
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.csproj.ResolveComReference.cache
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\GameShowMC.exe
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\GameShowMC.pdb
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\MaterialSkin.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\TelerikCommon.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.xml
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\Interop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\bin\Debug\AxInterop.VideoChatServerLib.dll
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.ConfettiMC.resources
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.Properties.Resources.resources
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.csproj.GenerateResource.Cache
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.exe.licenses
+C:\Users\godfather\Desktop\FinalProjectLT\FinalProjectLTWin\GameShowMC\obj\Debug\GameShowMC.csprojResolveAssemblyReference.cache

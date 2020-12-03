@@ -1,0 +1,42 @@
+@@Dog is what ?
+$$Dog
+$$Cat
+$$Tiger
+$$Lion
+**Dog
+##
+@@Who ivented the lights ?
+$$Robinson
+$$Ho Chi Minh
+$$Giang Trach Dan
+$$PewPew
+**Robinson
+##
+@@What is Grand Theft Auto ?
+$$Organization
+$$Machine 
+$$Animal
+$$Game series
+**Game series
+##
+@@If she____________rich, she would travel around the world.
+$$would be
+$$is
+$$has been
+$$were
+**were
+##
+@@My cat would not have bitten the toy fish____________it was made of rubber.
+$$if she has known
+$$if she should known
+$$had she known
+$$if she knew
+**had she known
+##
+@@They will stay there for some days if the weather____________fine.
+$$would be
+$$was
+$$is
+$$will be
+**is
+##
